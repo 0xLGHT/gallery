@@ -30,6 +30,146 @@ window.onload = function() {
         title: 'Paradoxical, 2023',
         description: 'Your artwork description 2',
       },
+      {
+        image: 'Images/hell.png',
+        title: 'Hellraiser, 2023',
+        description: 'Your artwork description 2',
+      },
+      {
+        image: 'Images/dead.png',
+        title: 'The Dead Need No Crowns, 2023',
+        description: 'Your artwork description 2',
+      },
+      {
+        image: 'Images/red.png',
+        title: 'ReD, 2022',
+        description: 'Your artwork description 2',
+      },
+      {
+        image: 'Images/online.png',
+        title: 'Lightworkers, 2023',
+        description: 'Your artwork description 2',
+      },
+      {
+        image: 'Images/grinch.png',
+        title: 'The Grinch, 2023',
+        description: 'Your artwork description 2',
+      },
+      {
+        image: 'Images/aura.png',
+        title: 'Aura Leak, 2023',
+        description: 'Your artwork description 2',
+      },
+      {
+        image: 'Images/blue.png',
+        title: 'Bludenza',
+        description: 'Your artwork description 2',
+      },
+      {
+        image: 'Images/binbang.png',
+        title: '₿ing₿ang, 2023',
+        description: 'Your artwork description 2',
+      },
+      {
+        image: 'Images/feast.png',
+        title: 'Feast of the Nouns, 2022',
+        description: 'Your artwork description 2',
+      },
+      {
+        image: 'Images/emotive.png',
+        title: 'Emotive, 2023',
+        description: 'Your artwork description 2',
+      },
+      {
+        image: 'Images/dragon.png',
+        title: 'The Dragon, 2022',
+        description: 'Your artwork description 2',
+      },
+      {
+        image: 'Images/inspiration.png',
+        title: 'Inspiration, 2023',
+        description: 'Your artwork description 2',
+      },
+      {
+        image: 'Images/internet-economy.png',
+        title: 'Internet Economy, 2023',
+        description: 'Your artwork description 2',
+      },
+      {
+        image: 'Images/latent.png',
+        title: 'Network Effects, 2023',
+        description: 'Your artwork description 2',
+      },
+      {
+        image: 'Images/wtf.png',
+        title: 'WTF is going on, 2022',
+        description: 'Your artwork description 2',
+      },
+      {
+        image: 'Images/panther.png',
+        title: 'Pink Panther, 2023',
+        description: 'Your artwork description 2',
+      },
+      {
+        image: 'Images/nounwork.png',
+        title: 'The Nounwork State, 2022',
+        description: 'Your artwork description 2',
+      },
+      {
+        image: 'Images/prophetic.png',
+        title: 'Prophetic, 2023',
+        description: 'Your artwork description 2',
+      },
+      {
+        image: 'Images/culture.png',
+        title: 'Culture Shift, 2022',
+        description: 'Your artwork description 2',
+      },
+      {
+        image: 'Images/dashboards.png',
+        title: 'Dashboards, 2023',
+        description: 'Your artwork description 2',
+      },
+      {
+        image: 'Images/angel.png',
+        title: 'Lightworker, 2022',
+        description: 'Your artwork description 2',
+      },
+      {
+        image: 'Images/creative-athletics.png',
+        title: 'Creative Athletics, 2023',
+        description: 'Your artwork description 2',
+      },
+      {
+        image: 'Images/transmute.png',
+        title: 'Transmutation, 2023',
+        description: 'Your artwork description 2',
+      },
+      {
+        image: 'Images/101.png',
+        title: '101 Dalmatians, 2023',
+        description: 'Your artwork description 2',
+      },
+      {
+        image: 'Images/context.png',
+        title: 'Context-Fermentation, 2023',
+        description: 'Your artwork description 2',
+      },
+      {
+        image: 'Images/datum.png',
+        title: 'Datum-Abstractions, 2023',
+        description: 'Your artwork description 2',
+      },
+      {
+        image: 'Images/decentralized.png',
+        title: 'Central to Decentral, 2023',
+        description: 'Your artwork description 2',
+      },
+      {
+        image: 'Images/brainstorming.png',
+        title: 'Brainstorming, 2023',
+        description: 'Your artwork description 2',
+      },
       // add more artworks as needed
   ];
 
