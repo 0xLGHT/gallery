@@ -88,3 +88,32 @@ button:hover {
 .description-line {
   margin-bottom: 10px; /* Adjust the value to increase/decrease the spacing */
 }
+
+@media (max-width: 728px) {
+  .container {
+      flex-direction: column;
+      align-items: center;
+      height: auto;
+  }
+
+  .image-column, .text-column {
+      width: 100%;
+      height: auto;
+      align-items: center;
+  }
+
+  .image-column img {
+      max-width: 100%;
+      height: auto;
+  }
+
+  .text-column {
+      margin-left: 0;
+      text-align: left;
+      padding: 20px;
+  }
+
+  .button-group {
+      justify-content: center;
+  }
+}
